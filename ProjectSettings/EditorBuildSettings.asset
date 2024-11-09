@@ -4,14 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/flap/FlapScene Test.unity
-    guid: d16c3641ce16b78429047b79ee96a918
-  - enabled: 1
-    path: "Assets/Samples/Meta XR Interaction \u200BSDK/69.0.2/Feature Scenes/TouchHandGrab.unity"
-    guid: be6ac2db53044a540a337805c97f39df
+  m_Scenes: []
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1acb6f319697043479062916d6f1980e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d2ed0a877e8236e4fa080d3e5d462ff6, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6c402313074e4db4a8813be3172dfe1c, type: 2}
